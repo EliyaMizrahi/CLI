@@ -27,5 +27,4 @@ public class Run {
 		myView.setController(myController);
 		myView.start();
 	}
-
 }
