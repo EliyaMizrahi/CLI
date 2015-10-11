@@ -62,8 +62,7 @@ public class MyView extends CommonView {
 	}
 
 	/**
-	 * This method is use to display string massage.
-	 * 
+	 * This method is use to display string massage. 
 	 * @param massage
 	 */
 	@Override

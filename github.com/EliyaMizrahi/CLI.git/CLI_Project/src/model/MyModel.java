@@ -70,7 +70,6 @@ public class MyModel extends CommonModel {
 
 	/**
 	 * This method is used to display maze3d.
-	 * 
 	 * @param nameMaze
 	 */
 	@Override
@@ -213,7 +212,6 @@ public class MyModel extends CommonModel {
 
 	/**
 	 * This method is use to display the size of maze in the file.
-	 * 
 	 * @param nameMaze
 	 */
 	@Override
@@ -235,7 +233,6 @@ public class MyModel extends CommonModel {
 
 	/**
 	 * This method is use to solve the maze by some algorithm.
-	 * 
 	 * @param nameMaze
 	 * @param nameAlgorithms
 	 */
